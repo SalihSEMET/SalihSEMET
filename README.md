@@ -2,7 +2,6 @@
 <h3 align="center">I'm an Electrical and Electronics Engineer and an ASP.NET Core Developer. I'm knowledgeable about dynamic and scalable e-commerce sites. My area of ​​expertise is backend software development. I constantly follow and learn new technologies and tools in the .NET ecosystem.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihsemet" alt="salihsemet" /></a> </p>
 
 - 🔭 I’m currently working on [Promptix](https://github.com/SalihSEMET/Promptix)
 
