@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Notla](https://github.com/SalihSEMET/Notla)
+- 🔭 I’m currently working on [FP-Notla](https://github.com/SalihSEMET/FP-Notla)
 
 - 💬 Ask me about **C#, ASP.NET Core , MSSQL**
 
