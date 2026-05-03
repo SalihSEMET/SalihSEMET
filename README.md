@@ -29,9 +29,11 @@ I am a Full-Stack Software Developer and Electrical & Electronics Engineering st
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalihSEMET&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Salih's GitHub Stats" />
+  
+  [![Salih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalihSEMET&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/SalihSEMET)
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalihSEMET&layout=compact&theme=tokyonight&hide_border=true" alt="Salih's Top Languages" />
+  [![Salih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihSEMET&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SalihSEMET)
+
 </div>
 
 ### 🔥 Featured Projects
