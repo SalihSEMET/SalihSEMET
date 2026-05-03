@@ -32,7 +32,6 @@ I am a Full-Stack Software Developer and Electrical & Electronics Engineering st
   
   [![Salih's GitHub Streak](https://streak-stats.demolab.com/?user=SalihSEMET&theme=tokyonight&hide_border=true)](https://github.com/SalihSEMET)
   <br/>
-  [![Salih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihSEMET&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/SalihSEMET)
 
 </div>
 
