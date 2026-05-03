@@ -30,9 +30,9 @@ I am a Full-Stack Software Developer and Electrical & Electronics Engineering st
 
 <div align="center">
   
-  [![Salih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalihSEMET&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/SalihSEMET)
+  [![Salih's GitHub Streak](https://streak-stats.demolab.com/?user=SalihSEMET&theme=tokyonight&hide_border=true)](https://github.com/SalihSEMET)
   <br/>
-  [![Salih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihSEMET&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SalihSEMET)
+  [![Salih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihSEMET&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/SalihSEMET)
 
 </div>
 
