@@ -1,16 +1,50 @@
-<h1 align="center">Hi 👋, I'm Salih SEMET</h1>
-<h3 align="center">I'm an Electrical and Electronics Engineer and an ASP.NET Core Developer. I'm knowledgeable about dynamic and scalable e-commerce sites. My area of ​​expertise is backend software development. I constantly follow and learn new technologies and tools in the .NET ecosystem.</h3>
+# Hi there, I'm Salih 👋
 
+*"A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are."*
 
+I am a Full-Stack Software Developer and Electrical & Electronics Engineering student. I specialize in building robust, scalable backend systems using Clean Architecture, while simultaneously exploring the deep end of hardware and embedded systems. Whether I'm designing RESTful APIs or tinkering with microcontrollers, I treat every project as an opportunity to build something impactful.
 
-- 🔭 I’m currently working on [FP-Notla](https://github.com/SalihSEMET/FP-Notla)
+### 🎓 About Me
 
-- 💬 Ask me about **C#, ASP.NET Core , MSSQL**
+- ⚡ 1st-year Electrical and Electronics Engineering student at Giresun University.
+- 💻 My main playground involves **C#, ASP.NET Core, React, and SQL Server**.
+- 🤖 Passionate hardware tinkerer working with microcontrollers like **Arduino, ESP32, and Pixhawk**.
+- 🚀 Gearing up for the **Teknofest 2026** Unmanned Underwater Systems competition (Advanced Level).
+- 🏋️‍♂️ When I'm not coding or soldering, I'm probably hitting a Push/Pull/Legs workout.
 
-- 📫 For Contact and Questions **semetsalih344@gmail.com**
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Software Development:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+**Hardware & Systems:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihsemet&label=Profile%20views&color=0e75b6&style=flat" alt="salihsemet" /> </p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalihSEMET&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Salih's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalihSEMET&layout=compact&theme=tokyonight&hide_border=true" alt="Salih's Top Languages" />
+</div>
+
+### 🔥 Featured Projects
+
+* **[Notla](https://github.com/SalihSEMET/FP-Notla):** A comprehensive, peer-to-peer academic note marketplace built with .NET 8, React, and Clean Architecture. Features dynamic discount engines, secure cart systems, and advanced seller dashboards.
+* **Teknofest Submarine Prototype:** Contributing to the software/hardware integration of an advanced unmanned underwater vehicle.
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salih-semet-b46335233/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semetsalih344@gmail.com)
+
+---
+<div align="center">
+  <i>Fueled by Clean Code and Black Coffee.</i>
+</div>
